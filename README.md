@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Simple Project<br>👯 I’m looking to collaborate on any MERN based projects<br>🌱 Currently pursuing BTech In Computer Science<br>💬 Now started 100 days of python coding challenge
+🔭 I’m currently working on a Simple Project<br>👯 I’m looking to collaborate on any MERN based projects<br>🌱 Currently pursuing BTech In Computer Science<br>💬 Now started Python
 
 
 ## 🌐 Socials:
