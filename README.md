@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on a Simple Project<br>👯 I’m looking to collaborate on any MERN based projects<br>🌱 Currently pursuing BTech In Computer Science<br>💬 Now started Python
+🔍 Aspiring Data Analyst with hands-on experience in Excel, SQL, and Power BI for data cleaning, analysis, and dashboard creation.<br>
+📊 Skilled in building interactive dashboards, reports, and KPIs to deliver actionable business insights.<br>
+📈 Experienced in working with structured datasets, performing analysis, and presenting insights clearly.<br>
+🐍 Proficient in Python (Pandas, NumPy, Matplotlib) for data manipulation and visualization.<br>
+🤝 Open to collaborating on data analytics and business intelligence projects.
 
 
 ## 🌐 Socials:
