@@ -1,9 +1,9 @@
 # 💫 About Me:
-💻 Frontend Web Developer with hands-on experience in HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS, focused on building responsive and clean web interfaces.
-🎨 Enjoy creating modern UI designs, reusable components, and mobile-first layouts that feel smooth and user-friendly.
-⚙️ Worked on real projects involving React routing, state management, API integration, and deployment using GitHub & Vercel.
-🧩 Comfortable working with structured data and SQL for basic backend-driven features.
-🤝 Actively looking for frontend internships or fresher roles to grow and contribute to real-world projects.
+💻 Frontend Web Developer with hands-on experience in HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS, focused on building responsive and clean web interfaces.<br>
+🎨 Enjoy creating modern UI designs, reusable components, and mobile-first layouts that feel smooth and user-friendly.<br>
+⚙️ Worked on real projects involving React routing, state management, API integration, and deployment using GitHub & Vercel.<br>
+🧩 Comfortable working with structured data and SQL for basic backend-driven features.<br>
+🤝 Actively looking for frontend internships or fresher roles to grow and contribute to real-world projects.<br>
 📊 Also have hands-on exposure to Data Analytics using Excel, SQL, Power BI, and Python (Pandas) for data analysis and dashboards.
 
 
