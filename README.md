@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Frontend Web Developer with hands-on experience in HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS, focused on building responsive and clean web interfaces.<br>
+💻 Full Stack Web Developer with hands-on experience in HTML, CSS, JavaScript, React, Php, Laravel, Sql, Bootstrap, and Tailwind CSS, focused on building responsive and clean web interfaces.<br>
 🎨 Enjoy creating modern UI designs, reusable components, and mobile-first layouts that feel smooth and user-friendly.<br>
 ⚙️ Worked on real projects involving React routing, state management, API integration, and deployment using GitHub & Vercel.<br>
 🧩 Comfortable working with structured data and SQL for basic backend-driven features.<br>
